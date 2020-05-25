@@ -1,0 +1,27 @@
+body{
+	margin :0;
+	padding: 0;
+	background-color: #232323;
+	background-size: cover;
+}
+.lgnbx{
+	width: 280px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color:white;
+}
+h1{
+   color: yellow;
+   border-bottom: 1px solid #4caf50;
+}
+
+.eid{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0px;
+    margin: 8px 0px;
+    border-bottom: 1px solid #4caf50; 
+}
